@@ -1,4 +1,4 @@
-#Django Login and Registration Module
+Django Login and Registration Module
 
 Introduction
 
